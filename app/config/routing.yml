@@ -1,0 +1,7 @@
+local_assault_app_init:
+    resource: "@LocalAssaultAppInitBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

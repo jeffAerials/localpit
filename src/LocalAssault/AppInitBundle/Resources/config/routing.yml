@@ -1,0 +1,3 @@
+local_assault_app_init_homepage:
+    path:     /
+    defaults: { _controller: LocalAssaultAppInitBundle:Default:index }
