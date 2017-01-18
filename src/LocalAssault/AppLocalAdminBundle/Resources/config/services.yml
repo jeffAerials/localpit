@@ -1,0 +1,4 @@
+services:
+#    local_assault_app_local_admin.example:
+#        class: LocalAssault\AppLocalAdminBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
