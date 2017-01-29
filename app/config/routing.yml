@@ -1,14 +1,14 @@
 local_assault_app_local_admin:
     resource: "@LocalAssaultAppLocalAdminBundle/Resources/config/routing.yml"
-    prefix:   /
+    prefix:   /loapplocadmin
 
 app_admin:
     resource: "@AppAdminBundle/Resources/config/routing.yml"
-    prefix:   /
+    prefix:   /appadmin
 
 local_assault_app_init:
     resource: "@LocalAssaultAppInitBundle/Resources/config/routing.yml"
-    prefix:   /
+    prefix:   /localassappinit
 
 app:
     resource: "@AppBundle/Controller/"
