@@ -1,3 +1,7 @@
+local_assault_app_init_essai:
+    resource: "@LocalAssaultAppInitBundle/Resources/config/routing/essai.yml"
+    prefix:   /essai
+
 local_assault_app_init_homepage:
     path:     /
     defaults: { _controller: LocalAssaultAppInitBundle:Default:index }
