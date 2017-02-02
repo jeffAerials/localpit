@@ -28,3 +28,9 @@
 /web/js
 /web/css
 /web/fonts
+
+src/LocalAssault/AppInitBundle/Resources/smartadmin_scss/
+
+
+src/LocalAssault/AppInitBundle/Resources/js/
+
